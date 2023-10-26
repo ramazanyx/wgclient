@@ -2,7 +2,6 @@
 #include <string>
 #include <unordered_set>
 
-#include "discord_rpc.h"
 
 #include "wrect.h"
 #include "cl_dll.h"
